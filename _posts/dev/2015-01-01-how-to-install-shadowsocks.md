@@ -33,10 +33,10 @@ In certain scenarios, I need a VPN to access Chinese websites from oversea, or t
 
     ```json
     {
-        “server”:”0.0.0.0”,
-        “port_password”:{
-            “8384”:”123456”,
-            “8385”:”456788”
+        "server":"0.0.0.0",
+        "port_password":{
+            "8384":"123456",
+            "8385":"456788"
         }
     }
     ```
