@@ -1,8 +1,8 @@
 ---
-title: "First day to Australia"
+title: "光头哥长登澳洲流水账(序)--出发"
 date: 2019-01-20T15:34:30-04:00
 categories:
-  - life
+  - Life
 tags:
   - Australia
 ---

@@ -2,7 +2,7 @@
 title: "How to install Shadowsocks server side"
 date: 2015-01-01T00:00:00+08:00
 categories:
-  - dev
+  - Dev
 tags:
   - Shadowsocks
 ---
